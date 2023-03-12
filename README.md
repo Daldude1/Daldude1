@@ -10,7 +10,7 @@ Desarrollador Python - Java - JavaScript - C# - C++ - C
 
 ### 📁 Frameworks y herramientas con los qué trabajo
 
-Flask, Django, Git, HTML5, CSS, TailWind, Bootstrap, Nginx, Selenium, Requests, Socker, MySQL
+Flask, Django, Git, HTML5, CSS, TailWind, Bootstrap, Nginx, Selenium, Requests, Socket, MySQL
 
 ### 📊 Mis estadisticas
 
