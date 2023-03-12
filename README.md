@@ -4,7 +4,7 @@
 ![Mis Seguidores](https://img.shields.io/github/followers/daldude1?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 ## 👋 ¡Hey! welcome to my perfil
 
-Desarrollador Python - Java - JavaScript - C# - C++ - C
+Dev Python - Java - JavaScript - C# - C++ - C
 > I have over 3 years of experience, I am a Full Stack Developer but I also work in different areas. 
 > I have worked with Machine Learning and data processing, as well as Web Scraping and as previously mentioned, Web Development.
 
