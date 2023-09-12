@@ -6,7 +6,11 @@
 
 ## 👋 Welcome to My Profile!
 
-I am a Full Stack Developer with over 3 years of experience. I specialize in Python, Java, JavaScript, C#, C++, and C, and have worked on various projects including Machine Learning, data processing, Web Scraping, and Web Development.
+Full Stack Developer with over 3 years of experience in Python, Java, JavaScript, C#, C++, and C.
+Specialized in Machine Learning, data processing, Web Scraping, and Web Development projects.
+Ability to work in different areas and projects.
+Experience using frameworks and tools such as Flask, Django, Git, HTML5, CSS, TailWind, Bootstrap, Nginx, Selenium, Requests, Socket, MySQL, Docker, Kubernetes, JQuery, and Laravel.
+Ability to work in a team and solve problems effectively.
 
 ### 📁 Tech Stack
 
