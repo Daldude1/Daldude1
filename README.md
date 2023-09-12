@@ -4,13 +4,20 @@
 
 ![Followers](https://img.shields.io/github/followers/daldude1?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-## 👋 Hey! Welcome to my profile
+## 👋 Welcome to My Profile!
 
-I'm a Full Stack Developer with over 3 years of experience. I specialize in Python, Java, JavaScript, C#, C++, and C. I have worked on various projects including Machine Learning, data processing, Web Scraping, and Web Development.
+I'm a Full Stack Developer with a passion for Python, Java, JavaScript, C#, C++, and C. With over 3 years of experience, I have worked on a wide range of projects, including Machine Learning, data processing, Web Scraping, and Web Development.
 
-### 📁 Frameworks and Tools
+### 📁 Tech Stack
 
-Flask, Django, Git, HTML5, CSS, TailWind, Bootstrap, Nginx, Selenium, Requests, Socket, MySQL, Docker, Kubernetes, JQuery, Laravel
+- Languages: Python, Java, JavaScript, C#, C++, C
+- Frameworks: Flask, Django, Laravel
+- Front-end: HTML5, CSS, Tailwind CSS, Bootstrap, jQuery
+- DevOps: Git, Docker, Kubernetes
+- Databases: MySQL
+- Web Scraping: Selenium, Requests
+- Web Sockets: Socket.io
+- Server: Nginx
 
 ### 📊 Statistics
 
